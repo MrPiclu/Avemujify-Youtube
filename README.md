@@ -6,9 +6,9 @@
 
 This extension adds **Avemujica** to every thumbnail.
 
-[![Button Download Firefox]][Download Firefox]  
+<!-- [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
+[![Button Download Edge]][Download Edge] -->
 
 </div>
 
