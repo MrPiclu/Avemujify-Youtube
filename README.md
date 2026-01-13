@@ -4,7 +4,7 @@
 
 **ようこそ、Avemujicaの世界ㇸ。**
 
-This extension adds **AvemujicaAvemujica** to every thumbnail.
+This extension adds **Avemujica** to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
@@ -16,7 +16,7 @@ This extension adds **AvemujicaAvemujica** to every thumbnail.
 
 - This extension should be compatible with any Firefox / Chromium based browser.
 - This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
-- This Repository was forked by **[MrBeastify-Youtube][Resource]**.
+- This Repository is forked from **[MrBeastify-Youtube][Resource]**.
 - This extension is unofficial and not affiliated with Bushiroad or YouTube.
 
 ## Microsoft Edge <a id="microsoftedge"></a>
@@ -39,4 +39,4 @@ Microsoft Edge support has been ended, and the extension has been delisted. This
 
 [UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
 [UI Website]: http://www.mrbeastify.com/
-[Resource]: https://github.com/MrPiclu/Avemujify-Youtube?tab=readme-ov-file
+[Resource]: https://github.com/MagicJinn/MrBeastify-Youtube
