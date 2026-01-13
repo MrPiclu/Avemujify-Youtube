@@ -1,6 +1,6 @@
 <div align = center>
 
-# MrBeastify
+# Avemujify
 
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
